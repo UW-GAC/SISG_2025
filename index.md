@@ -30,11 +30,21 @@ To run the tutorials, log into [NHLBI BioData Catalyst powered by Seven Bridges]
 All of the R code and data can also be downloaded from the [github repository](https://github.com/UW-GAC/SISG_2025) from which the site is built and run on your local machine. Download the complete workshop data and tutorials: [https://github.com/UW-GAC/SISG_2025/archive/main.zip](https://github.com/UW-GAC/SISG_2025/archive/main.zip)
 
 
-## Schedule
+## Course Schedule and Materials
 
+The exact timing of the schedule is subject to change, depending on the amount of discussion we have in class. 
 NOTE: All times are Eastern Daylight Time (GMT-04:00)
 
 **Wednesday, June 12th**
+
+| Topic | Materials |
+| Introduction | [Slides]() |
+| Intro to Cloud Computing for WGS Data Analysis | [Lecture Slides]() |
+| Intro to GDS Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.html) |
+| GWAS Crash Course | [Lecture Slides]() \| [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.html) |
+| _Extra_: Population Structure and Relatedness Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.html)
+| _Extra_: GWAS: Advanced Model Extenstions | [Slides]() \| [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.html) |
+| _Extra_: GENESIS Model Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.html)
 
 | Time | Topic | Lecture | Tutorials/Exercises |
 | --- | --- | --- | --- |
