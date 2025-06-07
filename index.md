@@ -32,55 +32,44 @@ All of the R code and data can also be downloaded from the [github repository](h
 
 ## Course Schedule and Materials
 
-The exact timing of the schedule is subject to change, depending on the amount of discussion we have in class. 
-NOTE: All times are Eastern Daylight Time (GMT-04:00)
+The exact timing of the schedule is subject to change, depending on the amount of discussion we have in class. <br>
+Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is daily from 12:00pm-1:30pm.
 
-**Wednesday, June 12th**
+**Wednesday, June 11th**
 
 | Topic | Materials |
+| --- | --- |
 | Introduction | [Slides]() |
 | Intro to Cloud Computing for WGS Data Analysis | [Lecture Slides]() |
 | Intro to GDS Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.html) |
-| GWAS Crash Course | [Lecture Slides]() \| [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.html) |
+| GWAS Crash Course | [Lecture Slides]() |
+| GWAS Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.html) |
 | _Extra_: Population Structure and Relatedness Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.html)
-| _Extra_: GWAS: Advanced Model Extenstions | [Slides]() \| [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.html) |
+| _Extra_: GWAS: Advanced Model Extenstions Lecture and Tutorial | [Slides]() \| [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.html) |
 | _Extra_: GENESIS Model Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.html)
 
-| Time | Topic | Lecture | Tutorials/Exercises |
-| --- | --- | --- | --- |
-| 1:30pm-1:40pm | Introduction | [Slides]() | |
-| 1:40pm-3:00pm | Intro to Cloud Computing for WGS Data Analysis <br> Intro to GDS Tutorial | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.html) |
-| 3:00pm-3:30pm | _Coffee Break_ | | |
-| 3:30pm-5:00pm | GWAS Crash Course | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02_GWAS.html) |
-| Extra | Population Structure and Relatedness Tutorial  | | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.1_pop_structure_relatedness.html)
-| Extra | GWAS: Advanced Model Extenstions | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.2_advanced_GWAS.html) |
-| Extra | GENESIS Model Explorer Tutorial | | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/02.3_GENESIS_model_explorer.html)
+**Thursday, June 12th**
 
+| Topic | Materials |
+| --- | --- |
+| Leveraging Multi-Ancestry Data | [Lecture Slides]() |
+| LD Exercise | [.docx](https://docs.google.com/document/d/1Zkhwa2uwzvwTVpy-sAsYIkvwFDKlLEin/preview) \| [_NEJM_ 2020](https://drive.google.com/file/d/1AxGGz1r9KOM7i0xPE34b7KA7Ern7J6HB/view?usp=drive_link) \| [_Nature_ 2021](https://drive.google.com/file/d/171FkSo0lAkbuAAX1tzc1LhdOYuqWFeNJ/view?usp=drive_link)  \| [KEY](https://docs.google.com/document/d/1lIBwrP-79LcaHRCqTD3snZro5Ylb6cyA/preview) |
+| Locus Zoom and Conditional Analysis Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.html) |
+| Variant Annotation | [Lecture Slides]() |
+| UCSC Genome Browser and FAVOR Tutorial | [.docx](https://docs.google.com/document/d/1M1AeVvF0o7-g-ASouXGVXm96pf2ucxmI/preview) \| [chr16 SNPS](https://drive.google.com/file/d/1wIsk7rJlcfodfgQwLV-I8Ofh23GhqN5d/view?usp=drive_link) \| [KEY](https://docs.google.com/document/d/1PJcxgAPblVnGcfDsY_ns8A4mi8yFSshZ/preview) |
+| Annotation Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.html) |
+| _5:00pm-6:00pm_: Tutorial Open Q&A Session | |
 
-**Thursday, June 13th**
+**Friday, June 13th**
 
-| Time | Topic | Lecture | Tutorials/Exercises |
-| --- | --- | --- | --- |
-| 8:30am-10:00am | Leveraging Multi-Ancestry Data: Lecture | [Slides]() | [.docx](https://docs.google.com/document/d/1Zkhwa2uwzvwTVpy-sAsYIkvwFDKlLEin/preview) \| [_NEJM_ 2020](https://drive.google.com/file/d/1AxGGz1r9KOM7i0xPE34b7KA7Ern7J6HB/view?usp=drive_link) \| [_Nature_ 2021](https://drive.google.com/file/d/171FkSo0lAkbuAAX1tzc1LhdOYuqWFeNJ/view?usp=drive_link)  \| [KEY](https://docs.google.com/document/d/1lIBwrP-79LcaHRCqTD3snZro5Ylb6cyA/preview)
-| 10:00am-10:30am | _Coffee Break_ | | |
-| 10:30am-12:00pm | Locus Zoom and Conditional Analysis Tutorial | | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.html)
-| 12:00pm-1:30pm | _Lunch Break_ | | |
-| 1:30pm-3:00pm | Variant Annotation Lecture <br> UCSC Genome Browser and FAVOR Tutorial | [Slides]() | [.docx](https://docs.google.com/document/d/1M1AeVvF0o7-g-ASouXGVXm96pf2ucxmI/preview) \| [chr16 SNPS](https://drive.google.com/file/d/1wIsk7rJlcfodfgQwLV-I8Ofh23GhqN5d/view?usp=drive_link) \| [KEY](https://docs.google.com/document/d/1PJcxgAPblVnGcfDsY_ns8A4mi8yFSshZ/preview) |
-| 3:00pm-3:30pm | _Coffee Break_ | | |
-| 3:30pm-5:00pm |  <br> Annotation Explorer Tutorial | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.html) |
-| 5:00pm-6:00pm | Tutorial Session | | |
-
-**Friday, June 14th**
-
-| Time | Topic | Lecture | Tutorials/Exercises |
-| --- | --- | --- | --- |
-| 8:30am-10:00am | Multi-Variant Association Tests | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.html)
-| 10:00am-10:30am | _Coffee Break_ | | |
-| 10:30am-12:00pm | Multi-Variant Association Tests | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.html) 
-| 12:00pm-1:30pm | _Lunch Break_ | | |
-| 1:30pm-3:00pm | STAAR | [Slides]() | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.html) |
-| 3:00pm-3:30pm | _Coffee Break_ | | |
-| 3:30pm-5:00pm | Recent Findings and Resources for WGS Analysis <br> Open Q&A | [Slides]() |
+| Topic | Materials |
+| --- | --- |
+| Multi-Variant Association Tests | [Lecture Slides]() | 
+| Multi-Variant Association Tests Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.html) |
+| STAAR | [Lecture Slides]() | 
+| STAAR Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.html) |
+| Recent Findings and Resources for WGS Analysis | [Lecture Slides]() |
+| Open Q&A | |
 
 ## R packages used
 
