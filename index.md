@@ -1,6 +1,6 @@
 This site contains course materials for SISG Module QG4: WGS Data Analysis, June 11-13, 2025. 
 
-- **Instructors:** Laura Raffield and Matthew Conomos
+- **Instructors:** [Laura Raffield](https://www.med.unc.edu/genetics/directory/laura-raffield-phd/) and [Matthew Conomos](https://www.biostat.washington.edu/people/matt-conomos)
 
 ## Course Description
 This module will provide an introduction to analyzing genotype data generated from whole genome sequencing (WGS). It will focus on extensions of standard GWAS analyses (e.g. rare-variant association tests) and “post-GWAS” follow-up analyses (e.g. conditional analysis, fine-mapping), and how WGS may improve results or be best utilized for these analyses; methods that incorporate variant annotation information will be highlighted.
