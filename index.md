@@ -53,10 +53,10 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 | Topic | Materials |
 | --- | --- |
 | Leveraging Multi-Ancestry Data | [Lecture Slides](https://drive.google.com/file/d/1pBSa-3Uxli6sAETwpGwKyQhvgnmA8zrS/view?usp=drive_link) |
-| LD Exercise | [.docx](https://docs.google.com/document/d/1Zkhwa2uwzvwTVpy-sAsYIkvwFDKlLEin/preview) \| [_NEJM_ 2020](https://drive.google.com/file/d/1AxGGz1r9KOM7i0xPE34b7KA7Ern7J6HB/view?usp=drive_link) \| [_Nature_ 2021](https://drive.google.com/file/d/171FkSo0lAkbuAAX1tzc1LhdOYuqWFeNJ/view?usp=drive_link)  \| [KEY](https://docs.google.com/document/d/1lIBwrP-79LcaHRCqTD3snZro5Ylb6cyA/preview) |
+| LD Exercise | [.pdf](https://drive.google.com/file/d/1ezSde3iCuXHgyHxty7QLlgZOteuKsoUk/view?usp=drive_link) \| [_NEJM_ 2020](https://drive.google.com/file/d/1P36sRyq1yXVfdfg2DR309ODGYlBRT_t-/view?usp=drive_link) \| [_Nature_ 2021](https://drive.google.com/file/d/1K8JTEv9_wublRO_yWeTOJ_2Lim2auKKP/view?usp=drive_link)  \| [KEY](https://drive.google.com/file/d/1t8rfyVAtiivfQ8aLL0oxMi0-3enyzNfA/view?usp=drive_link) |
 | Locus Zoom and Conditional Analysis Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.html) |
 | Variant Annotation | [Lecture Slides](https://drive.google.com/file/d/154HVwsWCJS2EV9HXa892l0aNPTsKEizz/view?usp=drive_link) |
-| UCSC Genome Browser and FAVOR Tutorial | [.docx](https://docs.google.com/document/d/1M1AeVvF0o7-g-ASouXGVXm96pf2ucxmI/preview) \| [chr16 SNPS](https://drive.google.com/file/d/1wIsk7rJlcfodfgQwLV-I8Ofh23GhqN5d/view?usp=drive_link) \| [KEY](https://docs.google.com/document/d/1PJcxgAPblVnGcfDsY_ns8A4mi8yFSshZ/preview) |
+| UCSC Genome Browser and FAVOR Tutorial | [.pdf](https://drive.google.com/file/d/1nHgPoWNFy8ok20mUO99boYSETCCf-ond/view?usp=drive_link) \| [chr16 SNPS](https://drive.google.com/file/d/1kVf1Jj6tBPC24N19DRgSE5BVAQqj9FPX/view?usp=drive_link) \| [KEY](https://drive.google.com/file/d/1juKziK-PhKjvSyFjl_sajxILo6p-XYpi/view?usp=drive_link) |
 | Annotation Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.html) |
 | _5:00pm-6:00pm_: Tutorial Open Q&A Session | |
 
