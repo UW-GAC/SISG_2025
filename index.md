@@ -25,7 +25,14 @@ Many of the lectures will be followed with hands-on tutorials/exercises. Student
 
 To run the tutorials, log into [NHLBI BioData Catalyst powered by Seven Bridges](https://platform.sb.biodatacatalyst.nhlbi.nih.gov) with your username and password -- we will use this platform for live demonstrations during the course.
 
-- You will retain access to the Seven Bridges platform, including your SISG Project with all of the course materials even after the course ends. The SISG25 Workshop billing group will remain available to you for a short period of time, after which you will need to set up another payment method to run analyses. You can [request pilot cloud credits](https://biodatacatalyst.nhlbi.nih.gov/resources/cloud-credits) ($500 worth) from BioData Catalyst. Additionally, there is guidance available for [writing BioData Catalyst cloud costs into your grant proposal budget](https://bdcatalyst.gitbook.io/biodata-catalyst-documentation/written-documentation/getting-started/writing-biodata-catalyst-into-a-grant-proposal). 
+#### Setting up a BioData Catalyst account
+If you are affiliated with a US-based institution, you will log into the platform using eRA Commons credentials. [eRA Commons](https://www.era.nih.gov/register-accounts/create-and-edit-an-account.htm) is the system used by NIH to administer grants, and it also serves as a mechanism for authenticating researchers to work with controlled access data. To create a BioData Catalyst account, please follow steps on [this page](https://sb-biodatacatalyst.readme.io/docs/sign-up-biodata-catalyst-powered-by-seven-bridges). 
+
+If you are not affiliated with a US institution that is already registered in eRA Commons, or you do not already have an eRA Commons ID in advance of the workshop, you will still be able to fully participate in the module exercises. Please see this [document](https://drive.google.com/file/d/1yylewFR4jQoTKexm-0_HQR-KdUWvL7pN/view) for instructions. 
+
+After you create an account, we will add you to the SISG 2025 WGS Analysis Module course project.  
+
+- You will retain access to the Seven Bridges platform, including the SISG course project with all of the course materials even after the course ends. The SISG25 Workshop billing group will remain available to you for a short period of time, after which you will need to set up another payment method to run analyses. You can [request pilot cloud credits](https://biodatacatalyst.nhlbi.nih.gov/resources/cloud-credits) ($500 worth) from BioData Catalyst. Additionally, there is guidance available for [writing BioData Catalyst cloud costs into your grant proposal budget](https://bdcatalyst.gitbook.io/biodata-catalyst-documentation/written-documentation/getting-started/writing-biodata-catalyst-into-a-grant-proposal). 
 
 All of the R code and data can also be downloaded from the [github repository](https://github.com/UW-GAC/SISG_2025) from which the site is built and run on your local machine. Download the complete workshop data and tutorials: [https://github.com/UW-GAC/SISG_2025/archive/main.zip](https://github.com/UW-GAC/SISG_2025/archive/main.zip)
 
@@ -39,7 +46,7 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 
 | Topic | Materials |
 | --- | --- |
-| Introduction | [Slides]() |
+| Introduction | [Slides](https://docs.google.com/presentation/d/1lJYW5cpLUHwPqaXj1a0m0zlC1hyhlTMzgfttjYIC420/preview?slide=id.p) |
 | Intro to Cloud Computing for WGS Data Analysis | [Lecture Slides](https://docs.google.com/presentation/d/1G-0eZca5qL7Aa3JbjdYsBm8cQdafyvwZC7kobDPKd5A/preview?slide=id.p) |
 | Intro to GDS Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/01_gds_intro.html) |
 | GWAS Crash Course | [Lecture Slides](https://drive.google.com/file/d/1jIAraJ2g4B9iMaw4ADH_lerWic11fxCd/view?usp=drive_link) |
